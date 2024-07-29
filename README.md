@@ -1,0 +1,2 @@
+# ddd-scaffold-archetype
+ddd
